@@ -14,4 +14,6 @@ for i in range(10):
 
 print(quadrado)
 
+#mudanças
+
 
