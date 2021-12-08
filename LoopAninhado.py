@@ -7,7 +7,7 @@ dados = [
 result = []
 for lista in dados:
     for item in lista:
-        result.append(item)girt statud
+        result.append(item)
 print(result)
 
 
